@@ -28,6 +28,22 @@ orders inside it to tick off once you've checked them.
 
 ![Spend: what you paid each month](screenshots/spend.png)
 
+## On your phone or tablet
+
+From version 1.0.2, PDD Tracker can show your parcels on an iPhone, iPad, or
+Android phone or tablet, at home or out, over Tailscale, a free service that
+links your own devices privately. Tailscale is built into PDD Tracker, so
+there's nothing else to install on the PC: the phone or tablet just needs the
+Tailscale app. On the PC, press **Help**, then **Set up a phone or tablet**,
+and follow its six steps, each with a picture.
+
+![Set up a phone or tablet: how it works, and the first of its six steps](screenshots/phone-setup.png)
+
+Each phone or tablet is linked once with a code shown on the PC, so nobody else
+can see your orders.
+
+<img src="screenshots/phone-link.png" width="260" alt="An iPhone asked for the code that links it">
+
 These pictures come from a made-up account, not anyone's real orders.
 
 ## Good to know
