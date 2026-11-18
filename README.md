@@ -24,7 +24,7 @@ orders inside it to tick off once you've checked them.
 
 ![Find: everything you've bought, as photos](screenshots/find.png)
 
-**Spend** shows what you paid each month, and to which sellers.
+**Spend** shows what you paid each month, to which sellers, and your year so far.
 
 ![Spend: what you paid each month](screenshots/spend.png)
 
@@ -40,9 +40,10 @@ and follow its six steps, each with a picture.
 ![Set up a phone or tablet: how it works, and the first of its six steps](screenshots/phone-setup.png)
 
 Each phone or tablet is linked once with a code shown on the PC, so nobody else
-can see your orders.
+can see your orders. On an iPhone or iPad, add it to the Home Screen first: it
+then opens like any other app, as **PDD Tracker**.
 
-<img src="screenshots/phone-link.png" width="260" alt="An iPhone asked for the code that links it">
+<img src="screenshots/phone-link.png" width="260" alt="An iPhone told to add PDD Tracker to its Home Screen first, then link it there">
 
 These pictures come from a made-up account, not anyone's real orders.
 
