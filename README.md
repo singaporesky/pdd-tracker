@@ -30,7 +30,7 @@ orders inside it to tick off once you've checked them.
 
 ## On your phone or tablet
 
-From version 1.0.2, PDD Tracker can show your parcels on an iPhone, iPad, or
+PDD Tracker can show your parcels on an iPhone, iPad (iOS 15 or later), or
 Android phone or tablet, at home or out, over Tailscale, a free service that
 links your own devices privately. Tailscale is built into PDD Tracker, so
 there's nothing else to install on the PC: the phone or tablet just needs the
@@ -40,8 +40,9 @@ and follow its six steps, each with a picture.
 ![Set up a phone or tablet: how it works, and the first of its six steps](screenshots/phone-setup.png)
 
 Each phone or tablet is linked once with a code shown on the PC, so nobody else
-can see your orders. On an iPhone or iPad, add it to the Home Screen first: it
-then opens like any other app, as **PDD Tracker**.
+can see your orders, and each can be unlinked on its own. On an iPhone or iPad,
+add it to the Home Screen first: it then opens like any other app, as **PDD
+Tracker**.
 
 <img src="screenshots/phone-link.png" width="260" alt="An iPhone told to add PDD Tracker to its Home Screen first, then link it there">
 
