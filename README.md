@@ -16,7 +16,8 @@ likely arrive.
 ![Today: every parcel on its way, with when it will likely arrive](screenshots/today.png)
 
 Open a parcel to see where it has been, the carrier's newest update, and the
-orders inside it to tick off once you've checked them.
+orders inside it to tick off once you've checked them. A delivered parcel
+stays on Today for a week, and after that until every order in it is ticked.
 
 ![A delivered parcel, with the orders inside it](screenshots/delivered.png)
 
